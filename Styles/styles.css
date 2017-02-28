@@ -1,0 +1,86 @@
+
+body {
+	background-color:black;
+}
+
+h1 {
+	margin: 10;
+	font-size: 6em;
+	color: white;
+}
+
+p {
+	margin: 10;
+	font-size: 3em;
+	color: white;
+}
+
+svg.apple {
+	fill: currentColor;
+	width: 2em;
+	height: 2em;
+}
+
+svg.banana {
+	fill: currentColor;
+	width: 2em;
+	height: 2em;
+}
+
+svg.carrot {
+	fill: currentColor;
+	width: 2em;
+	height: 2em;
+}
+
+svg.eggplant {
+	fill: currentColor;
+	width: 2em;
+	height: 2em;
+}
+
+svg.grapes {
+	fill: currentColor;
+	width: 2em;
+	height: 2em;
+}
+
+svg.pineapple {
+	fill: currentColor;
+	width: 2em;
+	height: 2em;
+}
+
+svg.potato {
+	fill: currentColor;
+	width: 2em;
+	height: 2em;
+}
+
+svg.apple:hover {
+	color: red;	
+}
+
+svg.banana:hover {
+	color: yellow;	
+}
+
+svg.carrot:hover {
+	color: #ed9121;	
+}
+
+svg.eggplant:hover {
+	color: purple;	
+}
+
+svg.grapes:hover {
+	color: green;	
+}
+
+svg.pineapple:hover {
+	color: #ffec89;	
+}
+
+svg.potato:hover {
+	color: #907a70;
+}
